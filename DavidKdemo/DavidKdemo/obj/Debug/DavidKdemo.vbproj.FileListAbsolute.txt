@@ -1,0 +1,12 @@
+C:\Users\oshba\source\repos\DavidKdemo\DavidKdemo\bin\Debug\DavidKdemo.exe.config
+C:\Users\oshba\source\repos\DavidKdemo\DavidKdemo\bin\Debug\DavidKdemo.exe
+C:\Users\oshba\source\repos\DavidKdemo\DavidKdemo\bin\Debug\DavidKdemo.pdb
+C:\Users\oshba\source\repos\DavidKdemo\DavidKdemo\bin\Debug\DavidKdemo.xml
+C:\Users\oshba\source\repos\DavidKdemo\DavidKdemo\obj\Debug\DavidKdemo.vbprojAssemblyReference.cache
+C:\Users\oshba\source\repos\DavidKdemo\DavidKdemo\obj\Debug\DavidKdemo.frmMain.resources
+C:\Users\oshba\source\repos\DavidKdemo\DavidKdemo\obj\Debug\DavidKdemo.Resources.resources
+C:\Users\oshba\source\repos\DavidKdemo\DavidKdemo\obj\Debug\DavidKdemo.vbproj.GenerateResource.cache
+C:\Users\oshba\source\repos\DavidKdemo\DavidKdemo\obj\Debug\DavidKdemo.vbproj.CoreCompileInputs.cache
+C:\Users\oshba\source\repos\DavidKdemo\DavidKdemo\obj\Debug\DavidKdemo.exe
+C:\Users\oshba\source\repos\DavidKdemo\DavidKdemo\obj\Debug\DavidKdemo.xml
+C:\Users\oshba\source\repos\DavidKdemo\DavidKdemo\obj\Debug\DavidKdemo.pdb
