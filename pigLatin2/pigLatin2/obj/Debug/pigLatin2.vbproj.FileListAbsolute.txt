@@ -1,0 +1,11 @@
+C:\Users\dkuehne\source\repos\pigLatin2\pigLatin2\bin\Debug\pigLatin2.exe.config
+C:\Users\dkuehne\source\repos\pigLatin2\pigLatin2\bin\Debug\pigLatin2.exe
+C:\Users\dkuehne\source\repos\pigLatin2\pigLatin2\bin\Debug\pigLatin2.pdb
+C:\Users\dkuehne\source\repos\pigLatin2\pigLatin2\bin\Debug\pigLatin2.xml
+C:\Users\dkuehne\source\repos\pigLatin2\pigLatin2\obj\Debug\pigLatin2.vbprojAssemblyReference.cache
+C:\Users\dkuehne\source\repos\pigLatin2\pigLatin2\obj\Debug\pigLatin2.Form1.resources
+C:\Users\dkuehne\source\repos\pigLatin2\pigLatin2\obj\Debug\pigLatin2.Resources.resources
+C:\Users\dkuehne\source\repos\pigLatin2\pigLatin2\obj\Debug\pigLatin2.vbproj.GenerateResource.cache
+C:\Users\dkuehne\source\repos\pigLatin2\pigLatin2\obj\Debug\pigLatin2.exe
+C:\Users\dkuehne\source\repos\pigLatin2\pigLatin2\obj\Debug\pigLatin2.xml
+C:\Users\dkuehne\source\repos\pigLatin2\pigLatin2\obj\Debug\pigLatin2.pdb

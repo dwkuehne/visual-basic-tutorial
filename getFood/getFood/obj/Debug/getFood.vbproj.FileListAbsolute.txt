@@ -1,0 +1,11 @@
+C:\Users\dkuehne\source\repos\getFood\getFood\bin\Debug\getFood.exe.config
+C:\Users\dkuehne\source\repos\getFood\getFood\bin\Debug\getFood.exe
+C:\Users\dkuehne\source\repos\getFood\getFood\bin\Debug\getFood.pdb
+C:\Users\dkuehne\source\repos\getFood\getFood\bin\Debug\getFood.xml
+C:\Users\dkuehne\source\repos\getFood\getFood\obj\Debug\getFood.vbprojAssemblyReference.cache
+C:\Users\dkuehne\source\repos\getFood\getFood\obj\Debug\getFood.Form1.resources
+C:\Users\dkuehne\source\repos\getFood\getFood\obj\Debug\getFood.Resources.resources
+C:\Users\dkuehne\source\repos\getFood\getFood\obj\Debug\getFood.vbproj.GenerateResource.cache
+C:\Users\dkuehne\source\repos\getFood\getFood\obj\Debug\getFood.exe
+C:\Users\dkuehne\source\repos\getFood\getFood\obj\Debug\getFood.xml
+C:\Users\dkuehne\source\repos\getFood\getFood\obj\Debug\getFood.pdb
