@@ -1,0 +1,12 @@
+C:\Users\oshba\source\repos\KuehneControls\KuehneControls\bin\Debug\KuehneControls.exe.config
+C:\Users\oshba\source\repos\KuehneControls\KuehneControls\bin\Debug\KuehneControls.exe
+C:\Users\oshba\source\repos\KuehneControls\KuehneControls\bin\Debug\KuehneControls.pdb
+C:\Users\oshba\source\repos\KuehneControls\KuehneControls\bin\Debug\KuehneControls.xml
+C:\Users\oshba\source\repos\KuehneControls\KuehneControls\obj\Debug\KuehneControls.vbprojAssemblyReference.cache
+C:\Users\oshba\source\repos\KuehneControls\KuehneControls\obj\Debug\KuehneControls.frmMain.resources
+C:\Users\oshba\source\repos\KuehneControls\KuehneControls\obj\Debug\KuehneControls.Resources.resources
+C:\Users\oshba\source\repos\KuehneControls\KuehneControls\obj\Debug\KuehneControls.vbproj.GenerateResource.cache
+C:\Users\oshba\source\repos\KuehneControls\KuehneControls\obj\Debug\KuehneControls.vbproj.CoreCompileInputs.cache
+C:\Users\oshba\source\repos\KuehneControls\KuehneControls\obj\Debug\KuehneControls.exe
+C:\Users\oshba\source\repos\KuehneControls\KuehneControls\obj\Debug\KuehneControls.xml
+C:\Users\oshba\source\repos\KuehneControls\KuehneControls\obj\Debug\KuehneControls.pdb
