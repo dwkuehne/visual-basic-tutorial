@@ -1,0 +1,12 @@
+C:\Users\oshba\source\repos\ForDoWhileLoops\ForDoWhileLoops\bin\Debug\ForDoWhileLoops.exe.config
+C:\Users\oshba\source\repos\ForDoWhileLoops\ForDoWhileLoops\bin\Debug\ForDoWhileLoops.exe
+C:\Users\oshba\source\repos\ForDoWhileLoops\ForDoWhileLoops\bin\Debug\ForDoWhileLoops.pdb
+C:\Users\oshba\source\repos\ForDoWhileLoops\ForDoWhileLoops\bin\Debug\ForDoWhileLoops.xml
+C:\Users\oshba\source\repos\ForDoWhileLoops\ForDoWhileLoops\obj\Debug\ForDoWhileLoops.vbprojAssemblyReference.cache
+C:\Users\oshba\source\repos\ForDoWhileLoops\ForDoWhileLoops\obj\Debug\ForDoWhileLoops.frmMain.resources
+C:\Users\oshba\source\repos\ForDoWhileLoops\ForDoWhileLoops\obj\Debug\ForDoWhileLoops.Resources.resources
+C:\Users\oshba\source\repos\ForDoWhileLoops\ForDoWhileLoops\obj\Debug\ForDoWhileLoops.vbproj.GenerateResource.cache
+C:\Users\oshba\source\repos\ForDoWhileLoops\ForDoWhileLoops\obj\Debug\ForDoWhileLoops.vbproj.CoreCompileInputs.cache
+C:\Users\oshba\source\repos\ForDoWhileLoops\ForDoWhileLoops\obj\Debug\ForDoWhileLoops.exe
+C:\Users\oshba\source\repos\ForDoWhileLoops\ForDoWhileLoops\obj\Debug\ForDoWhileLoops.xml
+C:\Users\oshba\source\repos\ForDoWhileLoops\ForDoWhileLoops\obj\Debug\ForDoWhileLoops.pdb
