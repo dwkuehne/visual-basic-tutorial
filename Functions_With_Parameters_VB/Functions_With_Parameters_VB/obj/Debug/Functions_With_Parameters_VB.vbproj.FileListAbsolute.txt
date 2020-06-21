@@ -1,0 +1,12 @@
+C:\Users\oshba\source\repos\Visual Basic\Functions_With_Parameters_VB\Functions_With_Parameters_VB\bin\Debug\Functions_With_Parameters_VB.exe.config
+C:\Users\oshba\source\repos\Visual Basic\Functions_With_Parameters_VB\Functions_With_Parameters_VB\bin\Debug\Functions_With_Parameters_VB.exe
+C:\Users\oshba\source\repos\Visual Basic\Functions_With_Parameters_VB\Functions_With_Parameters_VB\bin\Debug\Functions_With_Parameters_VB.pdb
+C:\Users\oshba\source\repos\Visual Basic\Functions_With_Parameters_VB\Functions_With_Parameters_VB\bin\Debug\Functions_With_Parameters_VB.xml
+C:\Users\oshba\source\repos\Visual Basic\Functions_With_Parameters_VB\Functions_With_Parameters_VB\obj\Debug\Functions_With_Parameters_VB.vbprojAssemblyReference.cache
+C:\Users\oshba\source\repos\Visual Basic\Functions_With_Parameters_VB\Functions_With_Parameters_VB\obj\Debug\Functions_With_Parameters_VB.frmMain.resources
+C:\Users\oshba\source\repos\Visual Basic\Functions_With_Parameters_VB\Functions_With_Parameters_VB\obj\Debug\Functions_With_Parameters_VB.Resources.resources
+C:\Users\oshba\source\repos\Visual Basic\Functions_With_Parameters_VB\Functions_With_Parameters_VB\obj\Debug\Functions_With_Parameters_VB.vbproj.GenerateResource.cache
+C:\Users\oshba\source\repos\Visual Basic\Functions_With_Parameters_VB\Functions_With_Parameters_VB\obj\Debug\Functions_With_Parameters_VB.vbproj.CoreCompileInputs.cache
+C:\Users\oshba\source\repos\Visual Basic\Functions_With_Parameters_VB\Functions_With_Parameters_VB\obj\Debug\Functions_With_Parameters_VB.exe
+C:\Users\oshba\source\repos\Visual Basic\Functions_With_Parameters_VB\Functions_With_Parameters_VB\obj\Debug\Functions_With_Parameters_VB.xml
+C:\Users\oshba\source\repos\Visual Basic\Functions_With_Parameters_VB\Functions_With_Parameters_VB\obj\Debug\Functions_With_Parameters_VB.pdb
