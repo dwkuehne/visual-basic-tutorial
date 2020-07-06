@@ -1,0 +1,12 @@
+C:\Users\oshba\source\repos\Visual Basic\String_Manipulation\String_Manipulation\bin\Debug\String_Manipulation.exe.config
+C:\Users\oshba\source\repos\Visual Basic\String_Manipulation\String_Manipulation\bin\Debug\String_Manipulation.exe
+C:\Users\oshba\source\repos\Visual Basic\String_Manipulation\String_Manipulation\bin\Debug\String_Manipulation.pdb
+C:\Users\oshba\source\repos\Visual Basic\String_Manipulation\String_Manipulation\bin\Debug\String_Manipulation.xml
+C:\Users\oshba\source\repos\Visual Basic\String_Manipulation\String_Manipulation\obj\Debug\String_Manipulation.vbprojAssemblyReference.cache
+C:\Users\oshba\source\repos\Visual Basic\String_Manipulation\String_Manipulation\obj\Debug\String_Manipulation.frmMain.resources
+C:\Users\oshba\source\repos\Visual Basic\String_Manipulation\String_Manipulation\obj\Debug\String_Manipulation.Resources.resources
+C:\Users\oshba\source\repos\Visual Basic\String_Manipulation\String_Manipulation\obj\Debug\String_Manipulation.vbproj.GenerateResource.cache
+C:\Users\oshba\source\repos\Visual Basic\String_Manipulation\String_Manipulation\obj\Debug\String_Manipulation.vbproj.CoreCompileInputs.cache
+C:\Users\oshba\source\repos\Visual Basic\String_Manipulation\String_Manipulation\obj\Debug\String_Manipulation.exe
+C:\Users\oshba\source\repos\Visual Basic\String_Manipulation\String_Manipulation\obj\Debug\String_Manipulation.xml
+C:\Users\oshba\source\repos\Visual Basic\String_Manipulation\String_Manipulation\obj\Debug\String_Manipulation.pdb
