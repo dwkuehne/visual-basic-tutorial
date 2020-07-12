@@ -1,0 +1,12 @@
+C:\Users\oshba\source\repos\Visual Basic\Arrays_Demo_VB\bin\Debug\Arrays_Demo_VB.exe.config
+C:\Users\oshba\source\repos\Visual Basic\Arrays_Demo_VB\bin\Debug\Arrays_Demo_VB.exe
+C:\Users\oshba\source\repos\Visual Basic\Arrays_Demo_VB\bin\Debug\Arrays_Demo_VB.pdb
+C:\Users\oshba\source\repos\Visual Basic\Arrays_Demo_VB\bin\Debug\Arrays_Demo_VB.xml
+C:\Users\oshba\source\repos\Visual Basic\Arrays_Demo_VB\obj\Debug\Arrays_Demo_VB.vbprojAssemblyReference.cache
+C:\Users\oshba\source\repos\Visual Basic\Arrays_Demo_VB\obj\Debug\Arrays_Demo_VB.frmMain.resources
+C:\Users\oshba\source\repos\Visual Basic\Arrays_Demo_VB\obj\Debug\Arrays_Demo_VB.Resources.resources
+C:\Users\oshba\source\repos\Visual Basic\Arrays_Demo_VB\obj\Debug\Arrays_Demo_VB.vbproj.GenerateResource.cache
+C:\Users\oshba\source\repos\Visual Basic\Arrays_Demo_VB\obj\Debug\Arrays_Demo_VB.vbproj.CoreCompileInputs.cache
+C:\Users\oshba\source\repos\Visual Basic\Arrays_Demo_VB\obj\Debug\Arrays_Demo_VB.exe
+C:\Users\oshba\source\repos\Visual Basic\Arrays_Demo_VB\obj\Debug\Arrays_Demo_VB.xml
+C:\Users\oshba\source\repos\Visual Basic\Arrays_Demo_VB\obj\Debug\Arrays_Demo_VB.pdb
