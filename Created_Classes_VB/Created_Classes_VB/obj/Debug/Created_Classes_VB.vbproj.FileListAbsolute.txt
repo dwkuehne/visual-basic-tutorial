@@ -1,0 +1,12 @@
+C:\Users\oshba\source\repos\Visual Basic\Created_Classes_VB\Created_Classes_VB\bin\Debug\Created_Classes_VB.exe.config
+C:\Users\oshba\source\repos\Visual Basic\Created_Classes_VB\Created_Classes_VB\bin\Debug\Created_Classes_VB.exe
+C:\Users\oshba\source\repos\Visual Basic\Created_Classes_VB\Created_Classes_VB\bin\Debug\Created_Classes_VB.pdb
+C:\Users\oshba\source\repos\Visual Basic\Created_Classes_VB\Created_Classes_VB\bin\Debug\Created_Classes_VB.xml
+C:\Users\oshba\source\repos\Visual Basic\Created_Classes_VB\Created_Classes_VB\obj\Debug\Created_Classes_VB.vbprojAssemblyReference.cache
+C:\Users\oshba\source\repos\Visual Basic\Created_Classes_VB\Created_Classes_VB\obj\Debug\Created_Classes_VB.frmMain.resources
+C:\Users\oshba\source\repos\Visual Basic\Created_Classes_VB\Created_Classes_VB\obj\Debug\Created_Classes_VB.Resources.resources
+C:\Users\oshba\source\repos\Visual Basic\Created_Classes_VB\Created_Classes_VB\obj\Debug\Created_Classes_VB.vbproj.GenerateResource.cache
+C:\Users\oshba\source\repos\Visual Basic\Created_Classes_VB\Created_Classes_VB\obj\Debug\Created_Classes_VB.vbproj.CoreCompileInputs.cache
+C:\Users\oshba\source\repos\Visual Basic\Created_Classes_VB\Created_Classes_VB\obj\Debug\Created_Classes_VB.exe
+C:\Users\oshba\source\repos\Visual Basic\Created_Classes_VB\Created_Classes_VB\obj\Debug\Created_Classes_VB.xml
+C:\Users\oshba\source\repos\Visual Basic\Created_Classes_VB\Created_Classes_VB\obj\Debug\Created_Classes_VB.pdb
